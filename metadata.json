@@ -1,0 +1,5 @@
+{
+  "name": "Groq AI Chatbot",
+  "description": "A sleek, responsive chatbot interface powered by Groq's LPU Inference Engine for blazingly fast responses. It features real-time streaming and a clean, modern design.",
+  "requestFramePermissions": []
+}
